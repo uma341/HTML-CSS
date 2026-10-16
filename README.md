@@ -1,2 +1,2 @@
 # HTML-CSS
-git comment changes
+test repo for git commands demonstration
